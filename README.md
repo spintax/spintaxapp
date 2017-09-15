@@ -1,3 +1,3 @@
 # spintaxapp
-testing all the git skills
+testing my git skills
 
